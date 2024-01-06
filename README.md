@@ -20,4 +20,4 @@ This is an interactive and fun game created purely by JavaScript.
 ## Screenshots
 
 ### The interface looks like 
-![App Screenshot](Image1.jpg)
+![App Screenshot](Image1.png)
