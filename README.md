@@ -21,3 +21,9 @@ This is an interactive and fun game created purely by JavaScript.
 
 ### The interface looks like 
 ![App Screenshot](Image1.png)
+
+## Acknowledgements
+
+ 
+ - [Sheriyans Coding School](https://www.youtube.com/@thesheryianscodingschool)
+ 
